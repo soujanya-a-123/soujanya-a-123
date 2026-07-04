@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm soujanya</h1>
-<h3 align="center">A passionate frontend developer from IndiaCSE Student | AI & ML Trainee | Python Enthusiast | Building Machine Learning Projects | Always Learning 🚀</h3>
+<h3 align="center">CSE Student | AI & ML Trainee | Python Enthusiast | Building Machine Learning Projects | Always Learning 🚀</h3>
 
 - 🔭 I’m currently working on **AIML based projects**
 
